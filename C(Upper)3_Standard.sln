@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP", "OOP\OOP.csproj", "{1582663E-7691-4A03-8448-247B202B09F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextRPG2", "TextRPG2\TextRPG2.csproj", "{6B86AB1D-78CD-4F4A-A9DF-9489E1F5E5BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1582663E-7691-4A03-8448-247B202B09F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1582663E-7691-4A03-8448-247B202B09F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1582663E-7691-4A03-8448-247B202B09F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1582663E-7691-4A03-8448-247B202B09F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B86AB1D-78CD-4F4A-A9DF-9489E1F5E5BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B86AB1D-78CD-4F4A-A9DF-9489E1F5E5BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B86AB1D-78CD-4F4A-A9DF-9489E1F5E5BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B86AB1D-78CD-4F4A-A9DF-9489E1F5E5BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14C4DA65-63C6-495D-9AD1-F1675EDA8683}
+	EndGlobalSection
+EndGlobal
