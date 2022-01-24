@@ -1,0 +1,14 @@
+C:\Users\MGSolutions\source\repos\C#\DataSturcture\bin\Debug\netcoreapp3.1\DataSturcture.exe
+C:\Users\MGSolutions\source\repos\C#\DataSturcture\bin\Debug\netcoreapp3.1\DataSturcture.deps.json
+C:\Users\MGSolutions\source\repos\C#\DataSturcture\bin\Debug\netcoreapp3.1\DataSturcture.runtimeconfig.json
+C:\Users\MGSolutions\source\repos\C#\DataSturcture\bin\Debug\netcoreapp3.1\DataSturcture.runtimeconfig.dev.json
+C:\Users\MGSolutions\source\repos\C#\DataSturcture\bin\Debug\netcoreapp3.1\DataSturcture.dll
+C:\Users\MGSolutions\source\repos\C#\DataSturcture\bin\Debug\netcoreapp3.1\DataSturcture.pdb
+C:\Users\MGSolutions\source\repos\C#\DataSturcture\obj\Debug\netcoreapp3.1\DataSturcture.csproj.AssemblyReference.cache
+C:\Users\MGSolutions\source\repos\C#\DataSturcture\obj\Debug\netcoreapp3.1\DataSturcture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MGSolutions\source\repos\C#\DataSturcture\obj\Debug\netcoreapp3.1\DataSturcture.AssemblyInfoInputs.cache
+C:\Users\MGSolutions\source\repos\C#\DataSturcture\obj\Debug\netcoreapp3.1\DataSturcture.AssemblyInfo.cs
+C:\Users\MGSolutions\source\repos\C#\DataSturcture\obj\Debug\netcoreapp3.1\DataSturcture.csproj.CoreCompileInputs.cache
+C:\Users\MGSolutions\source\repos\C#\DataSturcture\obj\Debug\netcoreapp3.1\DataSturcture.dll
+C:\Users\MGSolutions\source\repos\C#\DataSturcture\obj\Debug\netcoreapp3.1\DataSturcture.pdb
+C:\Users\MGSolutions\source\repos\C#\DataSturcture\obj\Debug\netcoreapp3.1\DataSturcture.genruntimeconfig.cache
