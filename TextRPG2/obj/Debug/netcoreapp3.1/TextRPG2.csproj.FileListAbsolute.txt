@@ -11,3 +11,17 @@ C:\Users\남궁승\source\repos\C(Upper)3_Standard\TextRPG2\obj\Debug\netcoreapp
 C:\Users\남궁승\source\repos\C(Upper)3_Standard\TextRPG2\obj\Debug\netcoreapp3.1\TextRPG2.dll
 C:\Users\남궁승\source\repos\C(Upper)3_Standard\TextRPG2\obj\Debug\netcoreapp3.1\TextRPG2.pdb
 C:\Users\남궁승\source\repos\C(Upper)3_Standard\TextRPG2\obj\Debug\netcoreapp3.1\TextRPG2.genruntimeconfig.cache
+C:\Users\MGSolutions\source\repos\C#\TextRPG2\bin\Debug\netcoreapp3.1\TextRPG2.exe
+C:\Users\MGSolutions\source\repos\C#\TextRPG2\bin\Debug\netcoreapp3.1\TextRPG2.deps.json
+C:\Users\MGSolutions\source\repos\C#\TextRPG2\bin\Debug\netcoreapp3.1\TextRPG2.runtimeconfig.json
+C:\Users\MGSolutions\source\repos\C#\TextRPG2\bin\Debug\netcoreapp3.1\TextRPG2.runtimeconfig.dev.json
+C:\Users\MGSolutions\source\repos\C#\TextRPG2\bin\Debug\netcoreapp3.1\TextRPG2.dll
+C:\Users\MGSolutions\source\repos\C#\TextRPG2\bin\Debug\netcoreapp3.1\TextRPG2.pdb
+C:\Users\MGSolutions\source\repos\C#\TextRPG2\obj\Debug\netcoreapp3.1\TextRPG2.csproj.AssemblyReference.cache
+C:\Users\MGSolutions\source\repos\C#\TextRPG2\obj\Debug\netcoreapp3.1\TextRPG2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MGSolutions\source\repos\C#\TextRPG2\obj\Debug\netcoreapp3.1\TextRPG2.AssemblyInfoInputs.cache
+C:\Users\MGSolutions\source\repos\C#\TextRPG2\obj\Debug\netcoreapp3.1\TextRPG2.AssemblyInfo.cs
+C:\Users\MGSolutions\source\repos\C#\TextRPG2\obj\Debug\netcoreapp3.1\TextRPG2.csproj.CoreCompileInputs.cache
+C:\Users\MGSolutions\source\repos\C#\TextRPG2\obj\Debug\netcoreapp3.1\TextRPG2.dll
+C:\Users\MGSolutions\source\repos\C#\TextRPG2\obj\Debug\netcoreapp3.1\TextRPG2.pdb
+C:\Users\MGSolutions\source\repos\C#\TextRPG2\obj\Debug\netcoreapp3.1\TextRPG2.genruntimeconfig.cache

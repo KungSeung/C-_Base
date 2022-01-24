@@ -48,7 +48,7 @@ namespace OOP
 		static void EnterGame(Player2 player)   // player(부모) 타입으로 입력받을 수 있음
 		{
 			// is 
-			bool isMage = (player is Mage2); // is : true / false 값 반환
+			bool isMage = (player is Mage2);  // is : true / false 값 반환
 			if (isMage)
 			{
 				Mage2 mage = (Mage2)player;
@@ -57,7 +57,7 @@ namespace OOP
 
 			// as가 깔끔해서 사용하길 추천
 			// null -> 아무것도 가르키는게 '없음'
-			/*	Mage mage = player as Mage;   // as : casting가능하냐 못하냐
+			/*	Mage mage = player as Mage;   // as : 하향casting -> 실패하면 null이 들어감
 				if (mage != null)
 				{
 					mage.mp = 10;
@@ -77,9 +77,9 @@ namespace OOP
 			// 1. Mage만이 갖고있는 멤버변수나 함수를 가지고 있지 않음
 			// 2. Player가 Knight나 다른 class에서 변환된 것일 수도 있음
 			Mage2 mage2 = (Mage2)magePlayer;    // 정 변환하고 싶으면 명시적 변환 필요
-												// 만약 타입이 안 맞아도 문법적으로 맞기 때문에 멤버변수나 함수에 접근가능
-												// 실행해보지 않으면 오류를 알 수 없다 -> 상당히 위험한 코드가 된다
-												// if문으로 검사필요
+			// 만약 타입이 안 맞아도 문법적으로 맞기 때문에 멤버변수나 함수에 접근가능
+			// 실행해보지 않으면 오류를 알 수 없다 -> 상당히 위험한 코드가 된다
+			// if문으로 검사필요
 
 			EnterGame(knight);
 
