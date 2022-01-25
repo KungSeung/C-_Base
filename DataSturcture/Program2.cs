@@ -80,7 +80,7 @@ namespace DataSturcture
 
 		}
 
-		static void Main(string[] args)
+		/*static void Main(string[] args)
 		{
 			int[] scores = new int[5] { 10, 30, 40, 20, 50 };
 			Sort(scores);
@@ -88,6 +88,6 @@ namespace DataSturcture
 			{
 				Console.Write(score);
 			}
-		}
+		}*/
 	}
 }
