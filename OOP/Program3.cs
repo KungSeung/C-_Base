@@ -5,6 +5,7 @@ using System.Text;
 namespace OOP
 {
 	// OOP를 대표하는 3대 속성 : 상속성, 은닉성, 다형성
+
 	// 다형성 - virtual / override
 	// 언제 사용? 똑같이 많이 사용하는데 조금씩 기능이 다를경우
 
