@@ -1,0 +1,14 @@
+C:\Users\MGSolutions\source\repos\C#\Etc.grammar2\bin\Debug\netcoreapp3.1\Etc.grammar2.exe
+C:\Users\MGSolutions\source\repos\C#\Etc.grammar2\bin\Debug\netcoreapp3.1\Etc.grammar2.deps.json
+C:\Users\MGSolutions\source\repos\C#\Etc.grammar2\bin\Debug\netcoreapp3.1\Etc.grammar2.runtimeconfig.json
+C:\Users\MGSolutions\source\repos\C#\Etc.grammar2\bin\Debug\netcoreapp3.1\Etc.grammar2.runtimeconfig.dev.json
+C:\Users\MGSolutions\source\repos\C#\Etc.grammar2\bin\Debug\netcoreapp3.1\Etc.grammar2.dll
+C:\Users\MGSolutions\source\repos\C#\Etc.grammar2\bin\Debug\netcoreapp3.1\Etc.grammar2.pdb
+C:\Users\MGSolutions\source\repos\C#\Etc.grammar2\obj\Debug\netcoreapp3.1\Etc.grammar2.csproj.AssemblyReference.cache
+C:\Users\MGSolutions\source\repos\C#\Etc.grammar2\obj\Debug\netcoreapp3.1\Etc.grammar2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MGSolutions\source\repos\C#\Etc.grammar2\obj\Debug\netcoreapp3.1\Etc.grammar2.AssemblyInfoInputs.cache
+C:\Users\MGSolutions\source\repos\C#\Etc.grammar2\obj\Debug\netcoreapp3.1\Etc.grammar2.AssemblyInfo.cs
+C:\Users\MGSolutions\source\repos\C#\Etc.grammar2\obj\Debug\netcoreapp3.1\Etc.grammar2.csproj.CoreCompileInputs.cache
+C:\Users\MGSolutions\source\repos\C#\Etc.grammar2\obj\Debug\netcoreapp3.1\Etc.grammar2.dll
+C:\Users\MGSolutions\source\repos\C#\Etc.grammar2\obj\Debug\netcoreapp3.1\Etc.grammar2.pdb
+C:\Users\MGSolutions\source\repos\C#\Etc.grammar2\obj\Debug\netcoreapp3.1\Etc.grammar2.genruntimeconfig.cache

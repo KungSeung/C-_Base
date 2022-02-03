@@ -28,13 +28,13 @@ namespace Etc.grammar
 
 	class Program
 	{
-		static void Main(string[] args)
+		/*static void Main(string[] args)
 		{
 			MyList<int> myIntList = new MyList<int>();
 			int item = myIntList.GetItem(0);
 
 			MyList<Monster> myMonsterList = new MyList<Monster>();
 			
-		}
+		}*/
 	}
 }

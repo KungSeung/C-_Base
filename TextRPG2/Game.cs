@@ -42,7 +42,7 @@ namespace TextRPG2
 			Console.WriteLine("[2] 궁수");
 			Console.WriteLine("[3] 법사");
 
-			String input = Console.ReadLine();
+			string input = Console.ReadLine();
 
 			switch (input)
 			{
@@ -67,7 +67,7 @@ namespace TextRPG2
 			Console.WriteLine("[1] 필드로 가기");
 			Console.WriteLine("[2] 로비로 돌아가기");
 
-			String input = Console.ReadLine();
+			string input = Console.ReadLine();
 
 			switch (input)
 			{
@@ -131,7 +131,7 @@ namespace TextRPG2
 			}
 			else
 			{
-
+			
 			}
 		}
 
@@ -146,7 +146,7 @@ namespace TextRPG2
 					break;
 				case 1:
 					monster = new Orc();
-					Console.WriteLine("슬라임이 생성되었습니다.");
+					Console.WriteLine("오크가 생성되었습니다.");
 					break;
 				case 2:
 					monster = new Skeleton();
